@@ -18,7 +18,6 @@ def main():
 
     print("Pressione 'q' para sair do programa.")
 
-
     while True:
         ret, frame = cap.read()
         
